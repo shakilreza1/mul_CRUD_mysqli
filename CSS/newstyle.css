@@ -1,0 +1,16 @@
+/* add-data */
+
+#table_add #thr{
+    border:5px solid gray;
+    text-align:center;
+    color:red;
+    text-decoration:underline;
+}
+#table_add #th_02{
+    border:5px solid gray;
+    text-align:center;
+    color:blue;
+}
+#id_01{
+    text-align:center;
+}
